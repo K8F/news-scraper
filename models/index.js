@@ -2,5 +2,8 @@
 
 module.exports = {
   Article: require("./Article"),
+  Save: require("./Save"),
   Note: require("./Note")
 };
+
+© 2020 GitHub, Inc.
